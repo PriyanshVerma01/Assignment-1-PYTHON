@@ -47,8 +47,4 @@
     Qns 10. Write a python script to print values of three variables, each in a new line. Variable contains integer values.
 
     Ans. 
-<<<<<<< HEAD
 ![image info](./assets/Capture6.PNG)
-=======
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture6.PNG)
->>>>>>> 1bbd0b2eb2d55309379d2b638085f06cfa3f0e97
