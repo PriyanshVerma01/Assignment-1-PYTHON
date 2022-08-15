@@ -20,7 +20,7 @@
     Qns 5. Write a python script to print Hello on the first line and Python on the second line.
 
     Ans. 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture1.PNG)
+![image info](./assets/Capture1.PNG)
 
 
     Qns 6. Write a python script to print “MySirG” on the screen.
