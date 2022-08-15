@@ -15,36 +15,36 @@
     Qns 4. Write a python script to print Hello Python on the screen using visual studio code.
 
     Ans. print('Hello Python') and run the Terminal 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture.PNG)
+![image 1](./assets/Capture.PNG)
 
     Qns 5. Write a python script to print Hello on the first line and Python on the second line.
 
     Ans. 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture1.PNG)
+![image info](./assets/Capture1.PNG)
 
 
     Qns 6. Write a python script to print “MySirG” on the screen.
 
     Ans. 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture2.PNG)
+![image info](./assets/Capture2.PNG)
 
 
     Qns 7. Write a python script to print “Teacher’s Day” on the screen.
 
     Ans. 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture3.PNG)
+![image info](./assets/Capture3.PNG)
 
     Qns 8. Write a python script to print the value of a variable. Variable contains your name as data.
 
     Ans. 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture4.PNG)
+![image info](./assets/Capture4.PNG)
 
     Qns 9. Write a python script to create variables to store your name, age, qualification, years of experience and print it.
 
     Ans. 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture5.PNG)
+![image info](./assets/Capture5.PNG)
 
     Qns 10. Write a python script to print values of three variables, each in a new line. Variable contains integer values.
 
     Ans. 
-![image info](\C:\Users\PRIYANSH\Desktop\Readme\Capture6.PNG)
+![image info](./assets/Capture6.PNG)
